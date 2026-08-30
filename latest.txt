@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.0.0.8
+version=1.0.0.9
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.8/MaxellControl.exe
-sha256=cbea70692878687fc6ff6a661bee8fcab3a044da94265b77663e04e094b6cb58
-notes=Battery Premium Phase 1: nueva vista de batería, icono animado, estados claros, alertas más directas y RAW movido a Diagnóstico.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.9/MaxellControl.exe
+sha256=c162def331d20f3e01f4008e5484ceb4c8ffab72da65eed6facb18d1a91fce1f
+notes=Battery Intelligence: lectura experimental del porcentaje firmware, validación automática, registro de calibración y alertas reales al 20%/10%.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
