@@ -1,3 +1,3 @@
 # Configuración remota restringida
 battery.guardConfirmSamples=3
-battery.pollMinutes=1
+battery.pollMinutes=2
