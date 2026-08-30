@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.0.0.5
+version=1.0.0.6
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.5/MaxellControl.exe
-sha256=347a009952a6db58a2895960050b155ffc68997beddc9ac84bd162c5815893f1
-notes=Primera actualizacion completa mediante Update Hub. Verifica descarga, SHA-256, reemplazo del EXE y reinicio automatico.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.6/MaxellControl.exe
+sha256=cc066949c7b98ca75b8029841d443ab55f9a23380c4f4bde637755d272410a89
+notes=Premium UX Phase 1: Update Hub rediseñado, progreso visual por etapas, estados más claros y restauración de la versión anterior.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
