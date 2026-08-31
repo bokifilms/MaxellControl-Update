@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.1.0.0
+version=1.2.1.0
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.1.0.0/MaxellControl.exe
-sha256=e33f4e349eb71e004f880f3aae500694cc67e4e5e64b47a128944b221af4729c
-notes=Input Lab + Competitive Mode: prueba visual de todos los controles, Raw Input filtrado al M44, polling/stability test, DPI Guard, VALORANT presets y ajuste Windows lineal reversible.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.2.1.0/MaxellControl.exe
+sha256=652f477492d3cc1c6f506882d0bfeb555b076c53d4989d46f3a472fe88ee82fc
+notes=Rendimiento M44: perfil medido 250 Hz / ~4 ms, Windows lineal reversible, diagnóstico Raw Input más honesto, Input Lab corregido y botones laterales visuales alineados con la posición física.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
