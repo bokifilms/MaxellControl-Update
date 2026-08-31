@@ -1,3 +1,16 @@
-# Configuración remota restringida
-battery.guardConfirmSamples=3
+# Maxell Control v1.0 - Remote Policy
+# Cambiar estos valores NO requiere publicar otro EXE.
+
 battery.pollMinutes=2
+battery.guardConfirmSamples=3
+
+battery.firmwarePercentEnabled=true
+battery.validationSamples=3
+battery.validationTransitions=2
+battery.validationMaxStep=10
+
+battery.alertEngineEnabled=true
+battery.alertConfirmSamples=3
+battery.lowThreshold=20
+battery.criticalThreshold=10
+battery.finalThreshold=5
