@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.0.0.10
+version=1.0.0.11
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.10/MaxellControl.exe
-sha256=3531c48bbe86db2356edcb49f4fb57b62cbb13014ac1c4c8ca796a3b930ed054
-notes=Battery Validation Guard: exige cambios estables y coherentes antes de validar el porcentaje; bloquea alertas automáticas durante la validación.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.11/MaxellControl.exe
+sha256=94e445e9dcae390f49dc42268a2304e29e614511671fc0a414d5250c4e836a06
+notes=Battery Alert Engine: avisos escalonados al 20%/10%/5%, confirmación estable, anti-spam persistente y bloqueo durante suspensión/desconexión.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
