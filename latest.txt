@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.0.0.12
+version=1.1.0.0
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.12/MaxellControl.exe
-sha256=5c249984f4beba7b8e3befc16e24de58a439adb87548ba6d5be9a5b56f8c5c58
-notes=Final Consolidation: Battery Validation + Alert Engine, política remota, updater autorreparable, bandeja con estado, notificaciones compactas y limpieza final de UX.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.1.0.0/MaxellControl.exe
+sha256=e33f4e349eb71e004f880f3aae500694cc67e4e5e64b47a128944b221af4729c
+notes=Input Lab + Competitive Mode: prueba visual de todos los controles, Raw Input filtrado al M44, polling/stability test, DPI Guard, VALORANT presets y ajuste Windows lineal reversible.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
