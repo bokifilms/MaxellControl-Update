@@ -1,7 +1,7 @@
 # Maxell Control Update Hub
-version=1.0.0.11
+version=1.0.0.12
 channel=stable
-url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.11/MaxellControl.exe
-sha256=94e445e9dcae390f49dc42268a2304e29e614511671fc0a414d5250c4e836a06
-notes=Battery Alert Engine: avisos escalonados al 20%/10%/5%, confirmación estable, anti-spam persistente y bloqueo durante suspensión/desconexión.
+url=https://github.com/bokifilms/MaxellControl-Update/releases/download/v1.0.0.12/MaxellControl.exe
+sha256=5c249984f4beba7b8e3befc16e24de58a439adb87548ba6d5be9a5b56f8c5c58
+notes=Final Consolidation: Battery Validation + Alert Engine, política remota, updater autorreparable, bandeja con estado, notificaciones compactas y limpieza final de UX.
 configUrl=https://raw.githubusercontent.com/bokifilms/MaxellControl-Update/main/config.txt
