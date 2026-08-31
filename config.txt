@@ -1,5 +1,5 @@
-# Maxell Control v1.0 - Remote Policy
-# Cambiar estos valores NO requiere publicar otro EXE.
+# Maxell Control v1.1 - Remote Policy
+# Estos valores pueden ajustarse sin publicar otro EXE.
 
 battery.pollMinutes=2
 battery.guardConfirmSamples=3
@@ -14,3 +14,7 @@ battery.alertConfirmSamples=3
 battery.lowThreshold=20
 battery.criticalThreshold=10
 battery.finalThreshold=5
+
+# Input Lab / Competitive Mode
+input.rawEnabled=true
+competitive.pollingTestSeconds=5
